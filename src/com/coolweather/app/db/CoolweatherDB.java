@@ -153,7 +153,6 @@ public class CoolweatherDB {
 		if (cursor != null) {
 			cursor.close();
 		}
-		return list;
-		
+		return list;	
 	}
 }
